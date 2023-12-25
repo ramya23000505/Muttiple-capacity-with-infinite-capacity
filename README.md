@@ -14,13 +14,17 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-
-
 ## Experiment:
 
+![Screenshot 2023-12-25 130323](https://github.com/ramya23000505/Muttiple-capacity-with-infinite-capacity/assets/149370791/47e904a1-51ed-42a4-80e0-ce2adeb114a4)
+
+![Screenshot 2023-12-25 130334](https://github.com/ramya23000505/Muttiple-capacity-with-infinite-capacity/assets/149370791/3171d8a8-9a6d-42b0-8d84-f51798a53b05)
 
 ## Program
+
+Developed by RAMYA R
+
+Reg no 212223230169
 
 ![Screenshot 2023-12-16 194024](https://github.com/ramya23000505/Muttiple-capacity-with-infinite-capacity/assets/149370791/e1c70129-854c-4e0a-a015-fd7b00a2a989)
 
